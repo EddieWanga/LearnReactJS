@@ -4,13 +4,14 @@
 * `var`
 * functions
 * loops (for, for in, while, do while)
-* this
 * array
 * object
 * property
 * object vs. array
 * keys + values
 * "list" + "list item"
+* `this` + `bind` (會頭痛喔～ 還好 ES6+ 有比較好的處理方式～)
+* closures
 
 ## HTML + CSS - Fundamentals
 * element
