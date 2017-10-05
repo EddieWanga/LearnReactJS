@@ -12,6 +12,12 @@ lodash + often used functions → map → forEach → filter
 還有 → Webpack, babel, eslint 等等～ . 
 
 
-JS
+JS  need to know
 
 list, item, array, object, property, value, isPlainObject, assign, clone, merge
+
+
+lodash : 
+https://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting
+
+
