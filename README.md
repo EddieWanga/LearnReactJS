@@ -1,23 +1,71 @@
-# ReactJS
-ReactJS - learning progress 
+# ReactJS: Learning, Concepts + Keywords
 
-Must Know 
+## ES5 (JS fundamentals)
+* `var`
+* functions
+* loops (for, for in, while, do while)
+* this
+* array
+* object
+* property
+* object vs. array
+* keys + values
+* "list" + "list item"
 
-ES6 + ES7 → const + let → arrow functions → spread operator (...) → argument destructuring
+## HTML + CSS - Fundamentals
+* element
+* list of commonly used elements
+  * `div`, `span`, `h1`, `p`, `hr`, more here...
+* class + style
+* Bootstrap (CSS classes (and more) for rapid prototyping and simple applications)
+* `flex`
+* TODO: more here
 
-React → Component (class) + stateless component function → props + propTypes → state + setState → context + contextTypes + childContextTypes
+## ES6 + ES7
+* `const` + `let`
+* arrow functions
+* spread operator (...)
+* argument destructuring
+* `assign`
+* `clone`
+* `merge`
+* `Map`
+* `Set`
+* `Promise`
 
-lodash + often used functions → map → forEach → filter
+## React - Fundamentals
+* component (class)
+* component (stateless component function)
+* props + propTypes
+* state + setState
+* `class` vs. `className`
+* `style`
+* [Reactstrap](https://reactstrap.github.io/) (React meets Bootstrap)
 
-還有 → Webpack, babel, eslint 等等～ . 
+## React - Advanced
+* context + contextTypes + childContextTypes
+* Presentation vs. Container components
+* Component life-cycle
+* `autoBind`
 
 
-JS  need to know
+## React - Data model
+* TODO: Flux, Redux + more
 
-list, item, array, object, property, value, isPlainObject, assign, clone, merge
+## lodash + often used functions
+* `map`
+* `forEach`
+* `filter`
+* `sortBy`
+* `assign`
+* `clone`
+* `merge`
+* [Lodash: 10 Javascript Utility Functions That You Should Probably Stop Rewriting](https://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting)
 
-
-lodash : 
-https://colintoh.com/blog/lodash-10-javascript-utility-functions-stop-rewriting
+## 還有多很多～
+* Webpack
+* babel
+* eslint
+* and more...
 
 
