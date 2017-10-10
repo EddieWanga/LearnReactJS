@@ -44,6 +44,10 @@
 * `style`
 * [Reactstrap](https://reactstrap.github.io/) (React meets Bootstrap)
 
+## React 課程
+* http://buildwithreact.com/tutorial
+* https://github.com/arkency/reactjs_koans
+
 ## React - Advanced
 * context + contextTypes + childContextTypes
 * Presentation vs. Container components
