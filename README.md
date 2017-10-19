@@ -5,7 +5,9 @@
 ### 一些基礎課程
 * [[KhanAcademy] Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
 * [[KhanAcademy] HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)
+* [[KhanAcademy] Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 * [[KhanAcademy] HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery)
+
 * [[Hisiko] JavaScript基礎入門](https://hiskio.com/course/51) (全中文，只有部分免費)
 
 ### React
