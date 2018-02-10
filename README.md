@@ -10,6 +10,8 @@
 
 * [[Hisiko] JavaScript基礎入門](https://hiskio.com/course/51) (全中文，只有部分免費)
 
+* [egghead] https://egghead.io/browse/languages/javascript   ( egghead_useful )
+
 ### React
 * [[Codecademy] React 101](https://www.codecademy.com/learn/react-101)
 * http://buildwithreact.com/tutorial
